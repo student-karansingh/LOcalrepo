@@ -1,2 +1,3 @@
  print("hello from jenkins")
-printf("creating job for jenkins")
+print("creating job for jenkins")
+print("JOB created succesfully")
