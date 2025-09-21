@@ -1,1 +1,2 @@
- print("hello karan how arw you from jenkins")
+ print("hello from jenkins")
+printf("creating job for jenkins")
